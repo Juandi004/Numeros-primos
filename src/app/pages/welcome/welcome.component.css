@@ -1,0 +1,21 @@
+.Título{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.contenedor{
+    background-color: antiquewhite; 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+.np{
+   margin: 20px;
+   width: 65px;
+   height: 50px;
+   border: 1px solid black;
+   text-align: center;
+   font-size: 30px;
+
+}
